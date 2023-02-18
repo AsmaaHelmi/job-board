@@ -1,0 +1,5 @@
+list:
+  title
+  gender
+  date
+  
